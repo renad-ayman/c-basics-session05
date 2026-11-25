@@ -1,0 +1,17 @@
+C:\Users\dell\source\repos\C# 4th Assignment\C# 4th Assignment\bin\Debug\net8.0\C# 4th Assignment.exe
+C:\Users\dell\source\repos\C# 4th Assignment\C# 4th Assignment\bin\Debug\net8.0\C# 4th Assignment.deps.json
+C:\Users\dell\source\repos\C# 4th Assignment\C# 4th Assignment\bin\Debug\net8.0\C# 4th Assignment.runtimeconfig.json
+C:\Users\dell\source\repos\C# 4th Assignment\C# 4th Assignment\bin\Debug\net8.0\C# 4th Assignment.runtimeconfig.dev.json
+C:\Users\dell\source\repos\C# 4th Assignment\C# 4th Assignment\bin\Debug\net8.0\C# 4th Assignment.dll
+C:\Users\dell\source\repos\C# 4th Assignment\C# 4th Assignment\bin\Debug\net8.0\C# 4th Assignment.pdb
+C:\Users\dell\source\repos\C# 4th Assignment\C# 4th Assignment\obj\Debug\net8.0\C# 4th Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\C# 4th Assignment\C# 4th Assignment\obj\Debug\net8.0\C# 4th Assignment.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\C# 4th Assignment\C# 4th Assignment\obj\Debug\net8.0\C# 4th Assignment.AssemblyInfo.cs
+C:\Users\dell\source\repos\C# 4th Assignment\C# 4th Assignment\obj\Debug\net8.0\C# 4th Assignment.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\C# 4th Assignment\C# 4th Assignment\obj\Debug\net8.0\C# 4th Assignment.sourcelink.json
+C:\Users\dell\source\repos\C# 4th Assignment\C# 4th Assignment\obj\Debug\net8.0\C# 4th Assignment.dll
+C:\Users\dell\source\repos\C# 4th Assignment\C# 4th Assignment\obj\Debug\net8.0\refint\C# 4th Assignment.dll
+C:\Users\dell\source\repos\C# 4th Assignment\C# 4th Assignment\obj\Debug\net8.0\C# 4th Assignment.pdb
+C:\Users\dell\source\repos\C# 4th Assignment\C# 4th Assignment\obj\Debug\net8.0\C# 4th Assignment.genruntimeconfig.cache
+C:\Users\dell\source\repos\C# 4th Assignment\C# 4th Assignment\obj\Debug\net8.0\ref\C# 4th Assignment.dll
+C:\Users\dell\source\repos\C# 4th Assignment\C# 4th Assignment\obj\Debug\net8.0\C# 4th A.592EA92C.Up2Date
